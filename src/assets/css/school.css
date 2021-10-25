@@ -1,0 +1,10 @@
+.school-img {
+    width: 500px !important;
+    height: 500px !important;
+    border-radius: 100%;
+}
+
+.school-reg-box {
+    background: linear-gradient(to bottom right, rgb(222, 172, 245) 0%, rgb(249, 246, 250) 100%) 100% no-repeat;
+
+}

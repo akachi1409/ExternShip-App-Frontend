@@ -1,0 +1,20 @@
+.header {
+    height: 100px;
+    background-color: aquamarine;
+    margin-bottom: 100px;
+}
+
+.logout-icon {
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.btn-logout {
+    color: #000 !important;
+}
+
+.font-speci {
+    font-family: 'WindSong';
+    font-weight: 500;
+}
